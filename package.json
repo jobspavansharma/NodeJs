@@ -1,11 +1,29 @@
 {
-  "name": "qurystring",
-  "version": "1.0.0",
+  "name": "extractfromurl",
+  "version": "1.0.1",
   "description": "test",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "pavan",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jobspavansharma/NodeJs.git"
+  },
+  "keywords": [
+    "url",
+    "values",
+    "extract",
+    "from",
+    "url",
+    "url",
+    "parameters",
+    "parameters"
+  ],
+  "bugs": {
+    "url": "https://github.com/jobspavansharma/NodeJs/issues"
+  },
+  "homepage": "https://github.com/jobspavansharma/NodeJs#readme"
 }
